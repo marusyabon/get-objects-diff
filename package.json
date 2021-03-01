@@ -1,7 +1,7 @@
 {
   "name": "get-objects-diff",
   "version": "1.0.0",
-  "description": "A package return diff of two object using lodash library",
+  "description": "A package returns diff of two objects using lodash library",
   "main": "main.js",
   "scripts": {
     "test": "test"
@@ -10,6 +10,7 @@
     "diff",
     "diff-checker"
   ],
+  "homepage": "https://github.com/marusyabon/get-objects-diff.git",
   "author": "XB Software",
   "license": "ISC",
   "dependencies": {
